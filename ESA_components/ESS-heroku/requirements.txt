@@ -1,0 +1,7 @@
+uwsgi
+flask
+numpy
+scipy
+theano
+pytz
+tzlocal
